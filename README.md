@@ -5,7 +5,8 @@
 - 服务端 Python开发，支持多机部署
 - 已完成支付接口，只需要简单的修改即可上线
 
-在线试玩地址：http://fish.darkpalm.apecube.com
+# 在线试玩地址：http://fish.darkpalm.apecube.com
+## 试玩账号 19945639777  123456
 
 使用任意11位手机号格式即可注册账号试玩
 
